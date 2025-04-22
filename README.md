@@ -34,6 +34,9 @@ This machine learning project aims to predict airline ticket prices using variou
 - Linear Regression
 - Random Forest Regressor
 - XGBoost Regressor
+- Ridge Regression
+- Lasso Regression
+- Gradient Boosting
 
 ### 4. Evaluation
 - Metrics: R² Score, MAE, RMSE
