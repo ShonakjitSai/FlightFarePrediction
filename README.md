@@ -7,7 +7,6 @@ This machine learning project aims to predict airline ticket prices using variou
 ## 📁 Dataset
 
 - **Source**: Provided Excel file (`Data_Train.xlsx`)
-- **Size**: [Mention number of rows/columns after `.shape`]
 - **Key Features**:
   - Airline
   - Source
@@ -44,20 +43,17 @@ This machine learning project aims to predict airline ticket prices using variou
 
 ## 📊 Results
 
-| Model           | R² Score | RMSE     | MAE      |
-|----------------|----------|----------|----------|
-| Linear Regression | 0.XXX     | XXX.XX   | XXX.XX   |
-| Random Forest     | 0.XXX     | XXX.XX   | XXX.XX   |
-| XGBoost           | 0.XXX     | XXX.XX   | XXX.XX   |
+                   R2 Score     RMSE      MAE
+Linear Regression    0.6902  2484.39  1711.12
+Ridge Regression     0.6901  2484.71  1712.73
+Lasso Regression     0.6902  2484.36  1711.10
+Random Forest        0.8596  1672.28   732.49
+Gradient Boosting    0.7789  2098.71  1284.83
+XGBoost              0.8442  1761.71   947.67
 
-✅ **Best model**: [Write your best-performing model here]
+✅ **Best model**: RandomForestRegressor
 
 ---
 
-## 🚀 How to Run
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
 
