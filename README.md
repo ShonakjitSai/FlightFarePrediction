@@ -46,7 +46,6 @@ This machine learning project aims to predict airline ticket prices using variou
 
 ## 📊 Results
 
-## 📊 Results
 
 | Model              | R² Score |   RMSE   |   MAE   |
 |--------------------|----------|----------|---------|
