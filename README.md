@@ -1,4 +1,4 @@
-# ✈️ Flight Fare Prediction
+# ✈️ Basic/Intermediate ML-Flight Fare Prediction
 
 This machine learning project aims to predict airline ticket prices using various flight-related features such as airline, source, destination, duration, and number of stops.
 
